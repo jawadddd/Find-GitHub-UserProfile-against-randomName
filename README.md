@@ -1,4 +1,3 @@
-# Finding-GitHub-UserProfile-against-random-name
 #### It includes a simple react app that takes username as input from the user and displays GitHub user profiles matching the input.    
 For this,  I am making an HTTP request to the GitHub API given in the
 following link:  
